@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+和设计师一样细腻，和程序员一样严谨，游走在设计师与工程师之间，游刃于用户体验和技术实现之间，斡旋在用户利益和商业利益之间。这就是前端开发工程师，这就是我的目标！！
+<p>如对博客有什么想法或建议可以联系我<a href="mailto:narutoxinxin@gmail.com">Gmail</a>
